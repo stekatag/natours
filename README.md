@@ -145,7 +145,7 @@ Now the _wrapping around_ of the text to the shape of the image is achieved by u
 
 This page also utilizes a responsive design to provide seamless user-experience to all users across all devices. This is achieved by utilizing a `mixin` where it takes in a breakpoint and with that, determins the max-width of the current viewport the app is being viewed from.
 
-```css
+```scss
 @mixin respond($breakpoint) {
   @if $breakpoint == phone {
     @media (max-width: 37.5em) {
