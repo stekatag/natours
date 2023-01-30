@@ -86,7 +86,7 @@ A project from the _Advanced CSS and Sass_ course by Jonas Schmedtmann. The proj
 This feature allows for elements to transition from one position to another. This is achieved by defining where elements are positioned at the beginning and at the end of the animation.
 
 <p align="center">
-    <img src="./gif/keyframes.gif">
+    <img src="./img/gif/keyframes.gif">
 </p>
 
 ### Image Transitions
@@ -94,7 +94,7 @@ This feature allows for elements to transition from one position to another. Thi
 Each image is emphasized as it's hovered over giving a 3D feel to the webpage. This is achieved by scaling up the current image being hovered over and scale-down the other photos.
 
 <p align="center">
-    <img src="./gif/transitions.gif">
+    <img src="./img/gif/transitions.gif">
 </p>
 
 ### Card Animations
@@ -102,7 +102,7 @@ Each image is emphasized as it's hovered over giving a 3D feel to the webpage. T
 Probably my favorite feature of this page. This card animation is achieved by creating two div elements, front-side, and back-side styled to be on top of each other achieved by the property `backface-visibility: hidden` and then giving each side its own styling accordingly. This segment of this page also reuses the button component similar to the "Discover our tours" button at the top of the page.
 
 <p align="center">
-    <img src="./gif/cards.gif">
+    <img src="./img/gif/cards.gif">
 </p>
 
 ### Stories Section
