@@ -199,7 +199,7 @@ Since there is no cursor on mobile devices, the card animation is not possible. 
 
 ## Built With
 
-This app is built with Vanilla JavaScript, HTML and Sass. It's using Parcel as module bundler and NPM as package manager.
+This app is built with Vanilla JavaScript, HTML and Sass. It's using NPM as package manager.
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [SCSS](https://sass-lang.com/)
